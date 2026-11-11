@@ -1,2 +1,2 @@
-# JobX
+# Jobly
 A networking platform !!!
