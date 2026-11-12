@@ -1,2 +1,2 @@
-# Jobly
+# Linky
 A networking platform !!!
